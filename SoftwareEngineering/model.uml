@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_1L_6MGbBEeSR6M2xmfEMyA" name="model">
+  <packagedElement xmi:type="uml:Actor" xmi:id="_95gc4GbBEeSR6M2xmfEMyA" name="USER">
+    <generalization xmi:type="uml:Generalization" xmi:id="_JxK1IGbHEeSR6M2xmfEMyA" general="_cmpfoGbCEeSR6M2xmfEMyA"/>
+    <generalization xmi:type="uml:Generalization" xmi:id="_Zzd0EGbHEeSR6M2xmfEMyA" general="_hvM4YGbDEeSR6M2xmfEMyA"/>
+    <generalization xmi:type="uml:Generalization" xmi:id="_e9trYGbHEeSR6M2xmfEMyA" general="_QT_JQGbEEeSR6M2xmfEMyA"/>
+    <generalization xmi:type="uml:Generalization" xmi:id="_hGvNYGbHEeSR6M2xmfEMyA" general="_T1C1MGbEEeSR6M2xmfEMyA"/>
+    <generalization xmi:type="uml:Generalization" xmi:id="_jje8oGbHEeSR6M2xmfEMyA" general="_WkFOUGbEEeSR6M2xmfEMyA"/>
+    <generalization xmi:type="uml:Generalization" xmi:id="_mCn4kGbHEeSR6M2xmfEMyA" general="_b81bsGbEEeSR6M2xmfEMyA"/>
+    <generalization xmi:type="uml:Generalization" xmi:id="_ojeEsGbHEeSR6M2xmfEMyA" general="_iJZroGbEEeSR6M2xmfEMyA"/>
+    <generalization xmi:type="uml:Generalization" xmi:id="_sXSUkGbHEeSR6M2xmfEMyA" general="_lGcEgGbEEeSR6M2xmfEMyA"/>
+    <generalization xmi:type="uml:Generalization" xmi:id="_vIOyMGbHEeSR6M2xmfEMyA" general="_noDFoGbEEeSR6M2xmfEMyA"/>
+    <generalization xmi:type="uml:Generalization" xmi:id="_7kFO4GbHEeSR6M2xmfEMyA" general="_qzQdYGbEEeSR6M2xmfEMyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_cmpfoGbCEeSR6M2xmfEMyA" name="Open File"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_hvM4YGbDEeSR6M2xmfEMyA" name="Evaluation of the 1st Lehman Law">
+    <include xmi:type="uml:Include" xmi:id="_manvkGbMEeSR6M2xmfEMyA" addition="_cmpfoGbCEeSR6M2xmfEMyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_QT_JQGbEEeSR6M2xmfEMyA" name="Evaluation of the 2nd Lehman Law">
+    <include xmi:type="uml:Include" xmi:id="_nsoxEGbMEeSR6M2xmfEMyA" addition="_cmpfoGbCEeSR6M2xmfEMyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_T1C1MGbEEeSR6M2xmfEMyA" name="Evaluation of the 3rd Lehman Law">
+    <include xmi:type="uml:Include" xmi:id="_oyu2cGbMEeSR6M2xmfEMyA" addition="_cmpfoGbCEeSR6M2xmfEMyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_WkFOUGbEEeSR6M2xmfEMyA" name="Evaluation of the 4th Lehman Law">
+    <include xmi:type="uml:Include" xmi:id="_pr1BoGbMEeSR6M2xmfEMyA" addition="_cmpfoGbCEeSR6M2xmfEMyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_b81bsGbEEeSR6M2xmfEMyA" name="Evaluation of the 5th Lehman Law">
+    <include xmi:type="uml:Include" xmi:id="_0p4qoGbMEeSR6M2xmfEMyA" addition="_cmpfoGbCEeSR6M2xmfEMyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_iJZroGbEEeSR6M2xmfEMyA" name="Evaluation of the 6th Lehman Law">
+    <include xmi:type="uml:Include" xmi:id="_2GAqYGbMEeSR6M2xmfEMyA" addition="_cmpfoGbCEeSR6M2xmfEMyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_lGcEgGbEEeSR6M2xmfEMyA" name="Evaluation of the 7th Lehman Law">
+    <include xmi:type="uml:Include" xmi:id="_37mTAGbMEeSR6M2xmfEMyA" addition="_cmpfoGbCEeSR6M2xmfEMyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_noDFoGbEEeSR6M2xmfEMyA" name="Evaluation of the 8th Lehman Law">
+    <include xmi:type="uml:Include" xmi:id="_5ZZGsGbMEeSR6M2xmfEMyA" addition="_cmpfoGbCEeSR6M2xmfEMyA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_qzQdYGbEEeSR6M2xmfEMyA" name="Create Report"/>
+</uml:Model>
